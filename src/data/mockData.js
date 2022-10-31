@@ -197,6 +197,28 @@ export const mockDataContacts = [
     zipCode: "1234",
     registrarId: 92197,
   },
+  {
+    id: 12,
+    name: "Bill Gates",
+    email: "billgates@gmail.com",
+    age: 51,
+    phone: "(444)555-6239",
+    address: "51234 Sexton Street, CunFory, ND 212412",
+    city: "Colunza",
+    zipCode: "1234",
+    registrarId: 22333,
+  },  
+  {
+    id: 13,
+    name: "Mark Zuckerberg",
+    email: "markz@gmail.com",
+    age: 37,
+    phone: "(444)555-6239",
+    address: "1 Hacker Way, Menlo Park",
+    city: "California",
+    zipCode: "1234",
+    registrarId: 33222,
+  },    
 ];
 
 export const mockDataInvoices = [

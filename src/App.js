@@ -8,6 +8,7 @@ import Team from "./scenes/Team";
 import Contacts from "./scenes/contacts";
 import Invoices from "./scenes/invoices";
 import Bar from "./scenes/bar";
+
 import Line from "./scenes/line";
 import Pie from "./scenes/pie";
 import Form from "./scenes/form";
